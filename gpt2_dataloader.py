@@ -1,6 +1,7 @@
 import tiktoken
 import importlib
 import torch
+import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
 
 # tokenizer = tiktoken.get_encoding("gpt2")
