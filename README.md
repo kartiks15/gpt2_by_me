@@ -2,7 +2,6 @@
 
 This is a small learning project for building and training a GPT-2 style language model from scratch in PyTorch. It implements the main pieces of a decoder-only Transformer: token and positional embeddings, causal self-attention, Transformer blocks, layer normalization, feed-forward layers, next-token training, and simple greedy text generation.
 
-The code is intentionally direct and educational rather than packaged as a library.
 
 ## Project Structure
 
